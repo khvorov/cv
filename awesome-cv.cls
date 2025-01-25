@@ -1,0 +1,1 @@
+awesome_cv/awesome-cv.cls
